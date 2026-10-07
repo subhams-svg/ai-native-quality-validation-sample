@@ -146,7 +146,7 @@ const SearchBar = ({ onSearch, initialFilters }: SearchBarProps) => {
                 ref={locationInputRef}
                 id="search-location"
                 type="text"
-                placeholder="Search destinations"
+                placeholder="Where are you going?"
                 value={location}
                 onChange={(e) => handleLocationChange(e.target.value)}
                 className="w-full outline-none text-sm text-gray-600 placeholder-gray-400 bg-transparent"
