@@ -1,0 +1,12 @@
+# LambdaTest Configuration
+
+# Project and folder configuration
+project_id: "01KF02M7RV7863BSZ2QXFZ3X5V"
+folder_id: "01KH3B1496WWD4MSXRWQ8W9QE8"
+
+# Test Run configuration
+assignee: 1000370292
+configuration_id: 89732
+
+# Test URL for automation
+test_url: "https://www.saucedemo.com"
